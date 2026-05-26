@@ -33,5 +33,5 @@ When you process data through the system, it follows a secure pipeline mapping t
 
 Clone the repository and jump into the framework directory:
 ```bash
-git clone [https://github.com/YOUR-USERNAME/cyber-crypto-vault.git]
+git clone [https://github.com/gayanukarandiw-jpg/cyber-crypto-vault.git]
 cd cyber-crypto-vault
